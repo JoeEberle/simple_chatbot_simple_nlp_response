@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Simple Chatbot Simple Nlp Response - OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
 OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Simple Chatbot Simple Nlp Response** - an example for 
 OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
