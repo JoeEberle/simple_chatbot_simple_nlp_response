@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Simple Chatbot Simple Nlp Response 
-    ## OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
+    
+# Simple Chatbot Simple Nlp Response 
+
+## OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
+
     ![Image image_filename](code.png)
 Welcome to the solution **Simple Chatbot Simple Nlp Response** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Simple Chatbot Simple Nlp Response** solution reposito
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Simple Chatbot Simple Nlp Response** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](joe_logo.png)  <br>
