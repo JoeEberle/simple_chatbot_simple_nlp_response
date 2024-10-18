@@ -2,7 +2,7 @@
 Welcome to the solution **Simple Chatbot Simple Nlp Response** - an example for your projects
 
 OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
