@@ -2,7 +2,7 @@
     
 # Simple Chatbot Simple Nlp Response 
 
-## OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
+## OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon â€¦. But with advanced natural language built in.
 
     
 ![Solution](code.png)
@@ -25,7 +25,7 @@
 
 Welcome to the solution **Simple Chatbot Simple Nlp Response** - an example for your projects
 
-OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon …. But with advanced natural language built in.
+OLD SCHOOL Chatbot- Like LEXI of olden days with pre-built response lexicon â€¦. But with advanced natural language built in.
 
 ![Solution](code.png)
 
